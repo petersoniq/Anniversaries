@@ -11,8 +11,8 @@
                     "one_time": "One Time Event (Non-recurring)",
                     "show_half_anniversary": "Zobraziť atribúty polroka",
                     "date_format": "Formát dátumu (pozri http://strftime.org/)",
-                    "unit_of_measurement": "Text for unit_of_measurement",
-                    "id_prefix": "Entity_id Prefix"
+                    "unit_of_measurement": "Text pre jednotku merania",
+                    "id_prefix": "Prefix pre intitu"
                 }
             },
             "icons": {
@@ -40,10 +40,10 @@
                 "data": {
                     "name": "Vlastný názov",
                     "date": "Prvý deň (yyyy-mm-dd) alebo (mm-dd) ak je rok neznámy",
-                    "one_time": "One Time Event (Non-recurring)",
+                    "one_time": "Jednorazová udalosť (nie opakovateľná)",
                     "show_half_anniversary": "Zobraziť atribúty polroka",
                     "date_format": "Formát dátumu (pozri http://strftime.org/)",
-                    "unit_of_measurement": "Text for unit_of_measurement"
+                    "unit_of_measurement": "Text pre jednotku merania"
                 }
             },
             "icons": {
